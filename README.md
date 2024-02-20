@@ -1,4 +1,4 @@
-# Fitness-Nutrition-Diet related Chatbot
+# Fitness-Nutrition-Diet Related Chatbot
 
 This project is based on LLM. If the user asks nutrition related question, then this program fetches data from API Ninjas nutrition related api. Similarly, if a user asks workout related question, then this program fetches data from API Ninjas exercise related api. This bot provides diet recommendations also using user-related data like gender, weight, height, fitness goal, allergy.
 
