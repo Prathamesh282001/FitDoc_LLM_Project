@@ -4,7 +4,7 @@ This project is based on LLM. If the user asks nutrition related question, then 
 
 # Libraries & Tools used
 
-Python
-GooglePalm
-API Ninjas
-Jupyter notebook as IDE
+1.Python
+2.GooglePalm
+3.API Ninjas
+4.Jupyter notebook as IDE
